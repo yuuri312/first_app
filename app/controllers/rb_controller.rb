@@ -1,0 +1,2 @@
+class RbController < ApplicationController
+end
